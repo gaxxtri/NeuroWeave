@@ -1,0 +1,30 @@
+
+# =====================================
+# NEUROWEAVE - PYTHON DEPENDENCIES
+# =====================================
+
+# Data processing
+numpy
+pandas
+scipy
+pyarrow
+
+# Data ingestion and APIs
+requests
+tqdm
+
+# Configuration management
+pyyaml
+python-dotenv
+
+# Data visualization
+matplotlib
+plotly
+
+# Development and testing
+pytest
+ruff
+
+# Interactive development
+jupyterlab
+ipykernel
